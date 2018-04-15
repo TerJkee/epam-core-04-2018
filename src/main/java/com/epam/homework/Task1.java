@@ -1,4 +1,4 @@
-package com.epam.homework;
+package main.java.com.epam.homework;
 
 public class Task1 {
 
@@ -38,5 +38,6 @@ public class Task1 {
 
         // TODO System.out.println("MIN (" + minLength + "): " + minString);
         // TODO System.out.println("MAX (" + maxLength + "): " + maxString);
+        // test
     }
 }
